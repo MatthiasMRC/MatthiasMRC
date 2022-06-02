@@ -5,24 +5,24 @@
 <div align="center">
 
   <h1 align="center">WELCOME 🙌
-    <br />I'm <a href="https://github.com/MatthiasMRC"><strong>Matthias MARCHIONE</strong></a>
-    <br /> <img src=https://img.shields.io/badge/Flutter-Developer-green> 
+    <br />I'm <b>Matthias MARCHIONE</b>
+    <br /> <img src=https://img.shields.io/badge/Flutter-Developer-blueviolet> 
   </h1>
+
   
-
-[![linkedIn][linkedin-shield]][linkedin-url]
-[![twitter][twitter-shield]][twitter-url]
-
 </div>
 
 
 
-
-- 👋 Hi, I’m @MatthiasMRC
 - 👀 I’m interested in flutter mobile and web development
 - 🌱 I’m currently learning Dart language
 - 💞️ I’m looking to collaborate on flutter project ! 
 - 📫 How to reach me : matthias.marchione@gmail.com
+
+## Keep In Touch
+
+[![linkedIn][linkedin-shield]][linkedin-url]
+[![twitter][twitter-shield]][twitter-url]
 
 <!---
 MatthiasMRC/MatthiasMRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
